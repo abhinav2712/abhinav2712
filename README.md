@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinav2712
-- 👀 I’m interested in MERN, OpenCv, C++,Java,Android,Native, MongoDB
-- 🌱 I’m currently learning Native, ML and OpenCV
-- 💞️ I’m looking to collaborate on  MERN, OpenCv, C++,Java,Android,Native, MongoDB, AI/ML projects
+- 👀 I’m interested in MERN, Devops, C++,Java,Native, MongoDB
+- 🌱 I’m currently learning  Devops ,Native and ML 
+- 💞️ I’m looking to collaborate on  MERN,Docker,Kuberneters C++,Java,Android,Native, MongoDB, AI/ML projects
 - 📫 How to reach me email: abhinav.kumar2712@gmail.com 
                      linkedin: https://www.linkedin.com/in/abhinav-kumar-9639b4143/
 <!---
