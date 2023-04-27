@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋👋
 
 Welcome to Abhinav Kumar's profile! Abhinav is a skilled software engineer with a keen interest in DevOps, AWS, and React Native projects. He is passionate about learning new technologies and staying up-to-date with the latest trends in the tech industry.
 
@@ -13,7 +13,7 @@ You can reach out to Abhinav via email at abhinav.kumar2712@gmail.com or connect
 
 Thank you for stopping by!
 
-Let's get in touch!
+Let's get in touch! Checkout my other socials as well
 
                      
 # 💻 Tech Stack:
