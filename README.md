@@ -6,7 +6,7 @@ A skilled software engineer with a keen interest in DevOps, AWS, and React Nativ
 I am currently focusing on improving his skills in DevOps and learning React Native with Typescript. He is always eager to learn and explore new technologies.
 
 ## What I'm looking to collaborate on 💞️
-I am actively seeking to collaborate on exciting projects related to Docker, Kubernetes, C++, Java, MongoDB, and Cloud Native. If you have any interesting projects in mind, feel free to reach out to me
+I am actively seeking to collaborate on exciting projects related to Docker, Kubernetes, C++, Java, MongoDB, and Cloud Native. If you have any interesting projects in mind, feel free to reach out to me. Open to work together on cool projects and in hackathons as well
 
 ## How to reach me 📫
 You can reach out to me via email at abhinav.kumar2712@gmail.com or connect with him on LinkedIn at https://www.linkedin.com/in/abhinav-kumar-9639b4143/. Don't hesitate to get in touch and explore exciting opportunities together.
