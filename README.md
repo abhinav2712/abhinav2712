@@ -1,6 +1,6 @@
 # Hi there 👋👋
 
-A skilled software engineer with a keen interest in DevOps, AWS, and React Native projects. I am passionate about learning new technologies and staying up-to-date with the latest trends in the tech industry.
+A skilled developer with a keen interest in DevOps, AWS, and React Native projects. I am passionate about learning new technologies and staying up-to-date with the latest trends in the tech industry.
 
 ## What I'm currently learning 🌱
 I am currently focusing on improving his skills in DevOps and learning React Native with Typescript. He is always eager to learn and explore new technologies.
