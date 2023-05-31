@@ -11,7 +11,7 @@ I am actively seeking to collaborate on exciting projects related to Docker, Kub
 ## How to reach me 📫
 You can reach out to me via email at abhinav.kumar2712@gmail.com or connect with him on LinkedIn at https://www.linkedin.com/in/abhinav-kumar-9639b4143/. Don't hesitate to get in touch and explore exciting opportunities together.
 
-Thank you for stopping by!
+Thank you !
 
 Let's get in touch! Checkout my other socials as well
 
